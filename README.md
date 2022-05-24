@@ -11,13 +11,13 @@ I'm Yarin from Israel, B.sc. computer science student from The Open university. 
 * 💻 HTML, CSS, JS
 
 - 🌐 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-  ![C++]( https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
-  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=Python)
-  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![MYSQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+ * ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+ * ![C++]( https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
+ * ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=Python)
+ * ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
+ * ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+ * ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+ *  ![MYSQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
 - 🔧 &nbsp;
   ![Clion](https://img.shields.io/badge/-clion-333333?style=flat&logo=clion)
   ![Visual studio](https://img.shields.io/badge/-Visualstudio-333333?style=flat&logo=Visualstudio)
